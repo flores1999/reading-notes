@@ -6,7 +6,7 @@
 
 Coding is a new feild for me. I'm currnetly in the Army reserves. I'm a big outdoorsman.
 
->Growth mindset in my words 
+## Growth mindset in my words 
   
   It is when you have an open mind to a new subject and the willingness to keep working through all obstacles.
   

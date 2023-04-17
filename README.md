@@ -2,7 +2,7 @@
 
 **My reading journal for cod fellows**
 
-Hello I am jeffery Flores.
+*Hello I am jeffery Flores.*
 
 Coding is a new feild for me. I'm currnetly in the Army reserves. I'm a big outdoorsman.
 

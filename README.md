@@ -1,4 +1,4 @@
-# jeffery flores reading journal   
+# Jeffery Flores reading notes    
 
 **My journal for cod fellows**
 
@@ -6,14 +6,19 @@
 
 Coding is a new feild for me. I'm currnetly in the Army reserves. My MOS (job) is 11B/infantry. I'.m with the recon secoin. I'm a big outdoorsman. I love to hike, snowbord, fish and camp.
 
-The platform I'm working on is windows 11. I will be taking javascripit down the road. 
+The platform I'm working on is windows 11. I will be taking javascripit down the road.
+
+# What this site is used for 
+
+This site is used to kepp track of all my notes that I have through out my classes with Code Fellows. See the tabel of contec for all notes.  
+
 
 
 [check out my github profile](http://github.com/flores1999)
 
-## table of contnec 
+# table of contnec 
 
-### 102 notes 
+## 102 notes                      
  
  * [class01](102/read01.md)
  * [class02](102/read02.md)
@@ -23,7 +28,7 @@ The platform I'm working on is windows 11. I will be taking javascripit down the
  * [class06](102/read06.md)
  * [class07](102/read07.md)
  * [class08](102/read08.md)
-### 201 notes 
+## 201 notes 
  
  * [class01](201/read01.md)
  * [class02](201/read02.md)

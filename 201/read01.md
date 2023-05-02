@@ -82,4 +82,4 @@ It hrlps improve the accessibility of the site by giving it meanigful informatio
 
 [help from ChatGPT](https://chat.openai.com/?model=text-davinci-002-render-sha)
 
-## Things I want to know more about 
+

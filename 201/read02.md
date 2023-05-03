@@ -65,4 +65,4 @@ Let's say you are building an e-commerce website and you need to calculate the t
 * [https://www.w3.org/TR/2011/WD-html5-author-20110809/the-sub-and-sup-elements.html#:~:text=The%20sup%20element%20represents%20a,typographical%20presentation%20for%20presentation's%20sake.](https://www.w3.org/TR/2011/WD-html5-author-20110809/the-sub-and-sup-elements.html#:~:text=The%20sup%20element%20represents%20a,typographical%20presentation%20for%20presentation's%20sake.) 
 * [chatgpt](https://chat.openai.com/?model=text-davinci-002-render-sha)
 * [https://www.dofactory.com/javascript/operators#:~:text=JavaScript%20Operators%20are%20as%20rich,comparison%2C%20assignment%2C%20and%20logical.](https://www.dofactory.com/javascript/operators#:~:text=JavaScript%20Operators%20are%20as%20rich,comparison%2C%20assignment%2C%20and%20logical.)
-## things I want have question about 
+## things I want to know and have question about 

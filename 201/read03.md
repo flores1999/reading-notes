@@ -74,9 +74,8 @@ A real world example of when a conditional statement should be used in a JavaScr
 Exampel: You have an array of 100 numbers and you want to calculate the sum of those numbers. Instead of writing 100 lines of code to manually add each number, you can use a loop to iterate over the array and add each number to a running total.
 
 ## Help from/referenced from 
-
 * [how to chang bullet style](https://www.teachucomp.com/create-html-bullet-points-instructions/#:~:text=To%20set%20the%20type%20of,the%20start%20tag.)
-* [chapgpt](https://chat.openai.com/)
+* [chatgpt](https://chat.openai.com/?)
 * [data types](https://www.freecodecamp.org/news/data-structures-101-arrays-a-visual-introduction-for-beginners-7f013bcc355a/#:~:text=Arrays%20are%20classified%20as%20Homogeneous,%2C%20objects%2C%20and%20so%20on.) 
 * [Five shorthand operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
 

@@ -17,7 +17,7 @@ Instead of using a float to create layouts by floating elements to the left or t
 
 ## How does this topic connect with your long term goals?
 
-It will help me with make sure that I know how to give the feture clintes what they need and or want their site to look like 
+It will help me with make sure that I know how to give the feture clintes what they need and or want their site to look like.
 
  
 ## Help from/referenced from
